@@ -1,0 +1,43 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #000;
+}
+
+#header-nav {
+  background-color: #0d0d0d;
+  border-radius: 0;
+  border: 0;
+}
+
+#title{
+	color: #bbbbbb;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #bbbbbb;
+}
+
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+
+#my-center.navbar-header{
+	margin-left: auto;
+	margin-right: auto;
+	float: none;
+}
+
+#collapsable-nav{
+	background-color: #333;
+}
+
+#nav-list>li>a:hover{
+	color: #fff;
+}
+
+#nav-list>li>a:focus{
+	color: #fff;
+}
